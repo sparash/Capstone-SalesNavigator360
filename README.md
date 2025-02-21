@@ -1,5 +1,7 @@
 # Capstone-SalesNavigator360
 Capstone Project: Sales Navigator 360
+
+Link: https://public.tableau.com/views/Capstone_Project_17398592138300/Sales360?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
  
 Project Overview
 This project focuses on developing comprehensive sales analysis and visualization using Tableau. The goal is to help businesses evaluate their sales performance across multiple dimensions, identify key trends, and generate data-driven recommendations to enhance profitability.
